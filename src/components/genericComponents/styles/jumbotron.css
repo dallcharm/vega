@@ -1,0 +1,21 @@
+.jumbotron {
+    background-color: #4172a0!important;
+    background-position: center;
+    background-size: 100%;
+    color:white;
+}
+
+.masthead {
+    position:relative;
+    background-color:#343a40;
+    background:url(../images/scheduling.png) no-repeat center center;
+    background-size:cover;
+    padding-top:8rem;
+    padding-bottom:8rem}
+
+    
+.btn-primary {
+        color: #fff;
+        background-color: #3798b1;
+        border-color: #21708f;
+    }

@@ -1,0 +1,11 @@
+.navbar-brand {
+    color: #333!important;
+}
+a{
+    color:#aaa;
+    font-weight: 200;
+}
+
+.navbar {
+    padding: .1rem 1rem;
+}
