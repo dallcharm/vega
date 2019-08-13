@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vega/static/css/main.2049d31a.chunk.css",
+    "main.js": "/vega/static/js/main.ac656528.chunk.js",
+    "main.js.map": "/vega/static/js/main.ac656528.chunk.js.map",
+    "runtime~main.js": "/vega/static/js/runtime~main.4df2cea0.js",
+    "runtime~main.js.map": "/vega/static/js/runtime~main.4df2cea0.js.map",
+    "static/js/2.9b79248a.chunk.js": "/vega/static/js/2.9b79248a.chunk.js",
+    "static/js/2.9b79248a.chunk.js.map": "/vega/static/js/2.9b79248a.chunk.js.map",
+    "index.html": "/vega/index.html",
+    "precache-manifest.67c2e6cab256fb5b35f28e9a28f53489.js": "/vega/precache-manifest.67c2e6cab256fb5b35f28e9a28f53489.js",
+    "service-worker.js": "/vega/service-worker.js",
+    "static/css/main.2049d31a.chunk.css.map": "/vega/static/css/main.2049d31a.chunk.css.map",
+    "static/media/jumbotron.css": "/vega/static/media/scheduling.4ff4a6e0.png"
+  }
+}
